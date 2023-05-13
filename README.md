@@ -1,6 +1,6 @@
 - 👋 Hola soy @RossnerContreras
-- 👀 Me interesa PHP, HTML, CSS
-- 🌱 Actualmente estoy aprendiendo GIT y GITHUB
+- 👀 Me interesa PHP, HTML, CSS, GIT, GITHUB
+- 🌱 Actualmente estoy aprendiendo redes
 - 💞️ Busco colaborar en cualquier cosa que me inviten
 - 📫 Como contactarme?, Fácil...
    * Mi [página de Facebook](https://web.facebook.com/TuYYoParaTodaLaEternidadLoPensare)
@@ -9,8 +9,8 @@
    * Mi [Canal de Youtube](https://www.youtube.com/channel/UCjVDwAINaCr3uoeXLpQofeg)
 _________________________________________________________________
 - 👋 Hi, I’m @RossnerContreras
-- 👀 I’m interested in PHP, HTML, CSS
-- 🌱 I’m currently learning GIT and GITHUB
+- 👀 I’m interested in PHP, HTML, CSS, GIT, GITHUB
+- 🌱 I’m currently learning NET
 - 💞️ I’m looking to collaborate on whatever you tell me
 - 📫 How to reach me?, Easy...
    * My [Page of Facebook](https://web.facebook.com/TuYYoParaTodaLaEternidadLoPensare)
@@ -19,8 +19,8 @@ _________________________________________________________________
    * My [Youtube Channel](https://www.youtube.com/channel/UCjVDwAINaCr3uoeXLpQofeg)
 _________________________________________________________________
 - 👋 Olá, sou @RossnerContreras
-- 👀 Estou interessado em PHP, HTML, CSS
-- 🌱 Atualmente estou aprendendo GIT e GITHUB
+- 👀 Estou interessado em PHP, HTML, CSS, GIT, GITHUB
+- 🌱 Atualmente estou aprendendo redes
 - 💞️ Estou procurando colaborar em qualquer coisa
 - 📫 Como chegar até mim? Fácil...
    * Minha [página de Facebook](https://web.facebook.com/TuYYoParaTodaLaEternidadLoPensare)
